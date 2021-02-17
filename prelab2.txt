@@ -1,0 +1,8 @@
+def fun2(a,c):
+	return c 
+ 
+def fun1():
+	return a,b,c 
+ 
+def fun3(a, b, cdd, e1):
+	return x
